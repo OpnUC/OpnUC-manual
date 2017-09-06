@@ -5,6 +5,8 @@
   * [ログイン](introduce/login.md)
   * [ログアウト](introduce/logout.md)
 * [発着信履歴](cdr/top.md)
-  * [画面構成](cdr/top/hua-mian-gou-cheng.md)
+  * [画面構成](cdr/layout.md)
+  * [検索条件](cdr/search.md)
+  * [ダウンロード](cdr/download.md)
 * [Web電話帳](web-address-book/top.md)
 
