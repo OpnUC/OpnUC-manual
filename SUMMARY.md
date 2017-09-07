@@ -10,4 +10,5 @@
   * [ダウンロード](cdr/download.md)
 * [Web電話帳](web-address-book/top.md)
   * [画面構成](web-address-book/layout.md)
+* [謝辞](thanks.md)
 
